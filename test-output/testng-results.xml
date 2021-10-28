@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70" started-at="2021-10-28T18:24:12 IST" finished-at="2021-10-28T18:24:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70" started-at="2021-10-28T18:24:12 IST" finished-at="2021-10-28T18:24:12 IST">
+      <class name="test.TestNgAnnotation">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:test.TestNgAnnotation@69b0fd6f]" name="BeforeTest" is-config="true" duration-ms="12" started-at="2021-10-28T18:24:12 IST" finished-at="2021-10-28T18:24:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:test.TestNgAnnotation@69b0fd6f]" name="Test" duration-ms="7" started-at="2021-10-28T18:24:12 IST" finished-at="2021-10-28T18:24:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:test.TestNgAnnotation@69b0fd6f]" name="AfterTest" is-config="true" duration-ms="1" started-at="2021-10-28T18:24:12 IST" finished-at="2021-10-28T18:24:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- test.TestNgAnnotation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
